@@ -130,4 +130,14 @@ Privacy & terms
 #######
 
 ##Sections
-- Hero section
+- Navigation 
+- Hero
+- Featured in
+- Features
+- How it works
+- Meals + List of diets
+- Gallery
+- Testimonials
+- Pricing
+- Call to Action(CTA)
+- Footer
