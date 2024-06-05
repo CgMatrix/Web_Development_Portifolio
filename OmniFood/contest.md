@@ -127,3 +127,7 @@ Recipe directory
 Help center
 Privacy & terms
 
+#######
+
+##Sections
+- Hero section
