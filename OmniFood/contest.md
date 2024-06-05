@@ -137,7 +137,7 @@ Privacy & terms
 - How it works
 - Meals + List of diets
 - Gallery
-- Testimonials
+- Testimonials + Gallery
 - Pricing
 - Call to Action(CTA)
 - Footer
