@@ -133,11 +133,10 @@ Privacy & terms
 - Navigation 
 - Hero
 - Featured in
-- Features
 - How it works
 - Meals + List of diets
 - Gallery
 - Testimonials + Gallery
-- Pricing
+- Pricing + Features
 - Call to Action(CTA)
 - Footer
