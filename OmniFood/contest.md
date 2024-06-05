@@ -129,8 +129,8 @@ Privacy & terms
 
 ########
 
-##Sections
-- Navigation 
+##Sections //UX Layout
+- Logo + Navigation 
 - Hero
 - Featured in
 - How it works
